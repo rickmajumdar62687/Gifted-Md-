@@ -10,10 +10,10 @@ ports:
     protocol: http
 
 env:
-  AUTO_READ: false
-  AUTO_READ_STATUS: true
-  AUTO_RECORDING: false
-  AUTO_REJECT_CALLS: false
+  AUTO_READ: true 
+  AUTO_READ_STATUS: true 
+  AUTO_RECORDING: true 
+  AUTO_REJECT_CALLS: true 
   DEPLOYMENT_PLATFORM: koyeb
   KOYEB_APP_NAME: Gifted-Md
 
